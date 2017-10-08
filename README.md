@@ -1,5 +1,5 @@
 # Data-Structures-and-Algo
-Simple program in C implementing Data Structure and Algorithms
+Simple programs in C implementing Data Structure and Algorithms
 
 This repository contains all the programs that were in Data Structure Lab course of Third year Electronics and Telecommunication Engineering, GCoEA.
 
